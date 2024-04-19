@@ -1,7 +1,7 @@
 # MDear 
 *.tiff
 *.tif
-# *.nc
+*.nc
 *.geojson
 # *.png
 *.jpg
